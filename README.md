@@ -22,9 +22,12 @@
 
 ###
 
+<h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> </h3>
+Hi! I am a beginner Android developer with a strong interest in mobile technologies. Currently, I am a 3rd-year student at a Technology Institute, studying computer science and honing my skills in mobile app development. I am always eager to learn and improve my coding abilities by creating interesting and useful projects.
+
 <h1 align="center"></h1>
 
-<h3 align="Left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" weight="25"> Skills </h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" weight="25"> Skills </h3>
 
 <h1 align="center"></h1>
 
